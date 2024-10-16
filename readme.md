@@ -3,5 +3,7 @@ Next JS + Shadcn UI Template
 
 ## Backend
 
-## Contributor 
+
+## Contributers
+Talib
 Manish
